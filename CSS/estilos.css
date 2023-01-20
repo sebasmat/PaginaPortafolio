@@ -1,0 +1,31 @@
+body{
+    background-color: burlywood;
+}
+.contenedor{
+    height: 570px;
+    background-image: url(https://cdn.pixabay.com/photo/2021/12/08/19/34/laptop-6856557_960_720.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: rgba(0,0,0,0.5);
+    background-blend-mode: darken;
+    color: white;
+}
+.card{
+    border: 0 !important;
+}
+.cover-small{
+    height: 200px;
+    background-blend-mode: normal;
+}
+h1,h2,h3,h4,h5{
+    text-align: center;
+}
+.acerca-de-mi{
+    
+    max-width:700px;
+    margin: auto; 
+    
+}
+
+
